@@ -19,6 +19,5 @@
     "del": "^4.1.1",
     "gulp": "^4.0.2"
   },
-  "author": "Mediaweb Creations Lda",
   "license": "GNU General Public License v3.0"
 }
